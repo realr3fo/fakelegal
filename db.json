@@ -1,4 +1,5 @@
-[
+{ "legal" : 
+  [
   {
     "title": "Status",
     "content": "The constitution of the International Conference of Administrative Science, Policy, and Governance Studies was declared on March 2017 by the Faculty of Administrative Science Universitas Indonesia, representing Universitas Indonesia, under the National Standards of Research Activity Act 44-2015 regarding the standard creation of international conference in Universitas Indonesia. Its headquarters are based in Kampus UI Depok, 16424, Indonesia."
@@ -35,4 +36,4 @@
     "title": "Hosting & Technologies",
     "content": "This website/application uses Google Analytics, a web analytics services provided by Google Inc. Google will use this information for evaluating your use of the  ICAS-PGS website/application, compiling reports on website/application activity for ICAS-PGS and providing other services relating to website/application activity and internet usage. Google will not associate your IP address with any other data held by Google."
   }
-]
+]}
